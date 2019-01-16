@@ -1,0 +1,28 @@
+﻿  main.cpp
+d:\nitsan data\desktop\nitsan\לימודים- תאר\שנה ג\גרפיקה\עבודות\ass3\forclass3d\forclass3d\cubelink.h(33): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\nitsan data\desktop\nitsan\לימודים- תאר\שנה ג\גרפיקה\עבודות\ass3\forclass3d\forclass3d\inputmanager.h(44): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\nitsan data\desktop\nitsan\לימודים- תאר\שנה ג\גרפיקה\עבודות\ass3\forclass3d\forclass3d\inputmanager.h(45): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\nitsan data\desktop\nitsan\לימודים- תאר\שנה ג\גרפיקה\עבודות\ass3\forclass3d\forclass3d\inputmanager.h(167): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\nitsan data\desktop\nitsan\לימודים- תאר\שנה ג\גרפיקה\עבודות\ass3\forclass3d\forclass3d\inputmanager.h(168): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\nitsan data\desktop\nitsan\לימודים- תאר\שנה ג\גרפיקה\עבודות\ass3\forclass3d\forclass3d\inputmanager.h(173): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\nitsan data\desktop\nitsan\לימודים- תאר\שנה ג\גרפיקה\עבודות\ass3\forclass3d\forclass3d\inputmanager.h(174): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\nitsan data\desktop\nitsan\לימודים- תאר\שנה ג\גרפיקה\עבודות\ass3\forclass3d\forclass3d\inputmanager.h(178): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\nitsan data\desktop\nitsan\לימודים- תאר\שנה ג\גרפיקה\עבודות\ass3\forclass3d\forclass3d\inputmanager.h(179): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\nitsan data\desktop\nitsan\לימודים- תאר\שנה ג\גרפיקה\עבודות\ass3\forclass3d\forclass3d\inputmanager.h(265): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\nitsan data\desktop\nitsan\לימודים- תאר\שנה ג\גרפיקה\עבודות\ass3\forclass3d\forclass3d\inputmanager.h(299): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+d:\nitsan data\desktop\nitsan\לימודים- תאר\שנה ג\גרפיקה\עבודות\ass3\forclass3d\forclass3d\inputmanager.h(308): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\nitsan data\desktop\nitsan\לימודים- תאר\שנה ג\גרפיקה\עבודות\ass3\forclass3d\forclass3d\inputmanager.h(309): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\nitsan data\desktop\nitsan\לימודים- תאר\שנה ג\גרפיקה\עבודות\ass3\forclass3d\forclass3d\inputmanager.h(466): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+d:\nitsan data\desktop\nitsan\לימודים- תאר\שנה ג\גרפיקה\עבודות\ass3\forclass3d\forclass3d\inputmanager.h(484): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\nitsan data\desktop\nitsan\לימודים- תאר\שנה ג\גרפיקה\עבודות\ass3\forclass3d\forclass3d\inputmanager.h(574): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\nitsan data\desktop\nitsan\לימודים- תאר\שנה ג\גרפיקה\עבודות\ass3\forclass3d\forclass3d\inputmanager.h(575): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\nitsan data\desktop\nitsan\לימודים- תאר\שנה ג\גרפיקה\עבודות\ass3\forclass3d\forclass3d\inputmanager.h(577): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\nitsan data\desktop\nitsan\לימודים- תאר\שנה ג\גרפיקה\עבודות\ass3\forclass3d\forclass3d\inputmanager.h(584): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\nitsan data\desktop\nitsan\לימודים- תאר\שנה ג\גרפיקה\עבודות\ass3\forclass3d\forclass3d\inputmanager.h(590): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\nitsan data\desktop\nitsan\לימודים- תאר\שנה ג\גרפיקה\עבודות\ass3\forclass3d\forclass3d\inputmanager.h(598): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\nitsan data\desktop\nitsan\לימודים- תאר\שנה ג\גרפיקה\עבודות\ass3\forclass3d\forclass3d\inputmanager.h(605): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  cubeLink.cpp
+  forClass3D.vcxproj -> D:\Nitsan DATA\Desktop\Nitsan\לימודים- תאר\שנה ג\גרפיקה\עבודות\ass3\forClass3D\Debug\forClass3D.exe
+  forClass3D.vcxproj -> D:\Nitsan DATA\Desktop\Nitsan\לימודים- תאר\שנה ג\גרפיקה\עבודות\ass3\forClass3D\Debug\forClass3D.pdb (Full PDB)
